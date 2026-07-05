@@ -38,7 +38,7 @@ O projeto foi segmentado em 4 scripts principais focando em dois recortes tempor
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/tatohi/copaVSeconomia.git](https://github.com/tatohi/copaVSeconomia.git)
    ```
 
 2. Instale as dependências necessárias:
