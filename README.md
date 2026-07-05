@@ -27,8 +27,6 @@ O projeto foi segmentado em 4 scripts principais focando em dois recortes tempor
 3. `copaedu.py`: Investiga a taxa de matrícula no ensino médio apenas das seleções **Campeãs Mundiais**.
 4. `copaedu2.py`: Investiga a taxa de matrícula no ensino médio de todas as seleções da **Elite**.
 
-> *Nota: O repositório também conta com um script estruturado para carregar, processar e unificar essa base de dados automaticamente para o **Power BI**, permitindo a criação de dashboards dinâmicos.*
-
 ## 💡 Principais Insights obtidos
 * **Relação Fraca com o PIB:** O poder econômico isolado mostrou alta dispersão estatística. Países de PIB baixo (como o histórico Brasil de 1962, 1970 e 2002) alcançaram o topo do mundo tanto quanto nações de altíssima renda (Alemanha de 2014).
 * **Tendência Consistente na Educação:** O nível educacional apresentou uma convergência muito mais forte. As grandes potências modernas e campanhas de elite concentram-se fortemente no quadrante de países com taxas de escolaridade superiores a 100%.
