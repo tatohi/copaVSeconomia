@@ -22,10 +22,10 @@ Será que o poder financeiro de uma nação ou o investimento na base educaciona
 ## 🗂️ Estrutura dos Códigos
 O projeto foi segmentado em 4 scripts principais focando em dois recortes temporais e de performance (pós-1960/1990):
 
-1. `pib_campeoes.py`: Analisa estritamente o PIB per capita dos **Campeões Mundiais** no ano do título.
-2. `pib_elite.py`: Analisa o PIB per capita de todas as seleções que atingiram a **Elite da Copa** (aproveitamento superior a 60%).
-3. `educacao_campeoes.py`: Investiga a taxa de matrícula no ensino médio apenas das seleções **Campeãs Mundiais**.
-4. `educacao_elite.py`: Investiga a taxa de matrícula no ensino médio de todas as seleções da **Elite**.
+1. `copaidh2.py`: Analisa estritamente o PIB per capita dos **Campeões Mundiais** no ano do título.
+2. `copaidh.py`: Analisa o PIB per capita de todas as seleções que atingiram a **Elite da Copa** (aproveitamento superior a 60%).
+3. `copaedu.py`: Investiga a taxa de matrícula no ensino médio apenas das seleções **Campeãs Mundiais**.
+4. `copaedu2.py`: Investiga a taxa de matrícula no ensino médio de todas as seleções da **Elite**.
 
 > *Nota: O repositório também conta com um script estruturado para carregar, processar e unificar essa base de dados automaticamente para o **Power BI**, permitindo a criação de dashboards dinâmicos.*
 
